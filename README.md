@@ -21,3 +21,6 @@
 - data/voc/voc_label.py : voc data 라벨링 작업하는 파일
 - config/voc.data : voc data의 class 정보, 경로 저장된 파일
 - utils/datasets.py : data 전처리, dataset 불러오는 함수 정의된 파일
+
+## object detection 성능
+https://blueskyvision.tistory.com/465
